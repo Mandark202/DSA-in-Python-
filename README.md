@@ -18,8 +18,4 @@
 13. Graph
 14. Sorting
 15. Heap
-16. Searching
-17. Hashing
-18. Collision
-19. Time Complexity
 
